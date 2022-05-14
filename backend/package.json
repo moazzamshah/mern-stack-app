@@ -11,6 +11,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express-async-handler": "^1.2.0"
+    "bcryptjs": "^2.4.3",
+    "express-async-handler": "^1.2.0",
+    "jsonwebtoken": "^8.5.1"
   }
 }
